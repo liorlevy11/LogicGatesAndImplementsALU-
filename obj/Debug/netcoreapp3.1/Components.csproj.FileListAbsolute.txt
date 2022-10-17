@@ -1,0 +1,39 @@
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.exe
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.deps.json
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.json
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.dev.json
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.dll
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.pdb
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.csprojAssemblyReference.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfoInputs.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfo.cs
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.csproj.CoreCompileInputs.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.dll
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.pdb
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.genruntimeconfig.cache
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\Components\bin\Debug\netcoreapp3.1\Components.exe
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\Components\bin\Debug\netcoreapp3.1\Components.deps.json
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.json
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.dev.json
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\Components\bin\Debug\netcoreapp3.1\Components.dll
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\Components\bin\Debug\netcoreapp3.1\Components.pdb
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\Components\obj\Debug\netcoreapp3.1\Components.csprojAssemblyReference.cache
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfoInputs.cache
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfo.cs
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\Components\obj\Debug\netcoreapp3.1\Components.csproj.CoreCompileInputs.cache
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\Components\obj\Debug\netcoreapp3.1\Components.dll
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\Components\obj\Debug\netcoreapp3.1\Components.pdb
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\Components\obj\Debug\netcoreapp3.1\Components.genruntimeconfig.cache
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\1.3\Components\bin\Debug\netcoreapp3.1\Components.exe
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\1.3\Components\bin\Debug\netcoreapp3.1\Components.deps.json
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\1.3\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.json
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\1.3\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.dev.json
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\1.3\Components\bin\Debug\netcoreapp3.1\Components.dll
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\1.3\Components\bin\Debug\netcoreapp3.1\Components.pdb
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\1.3\Components\obj\Debug\netcoreapp3.1\Components.csprojAssemblyReference.cache
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\1.3\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfoInputs.cache
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\1.3\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfo.cs
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\1.3\Components\obj\Debug\netcoreapp3.1\Components.csproj.CoreCompileInputs.cache
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\1.3\Components\obj\Debug\netcoreapp3.1\Components.dll
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\1.3\Components\obj\Debug\netcoreapp3.1\Components.pdb
+C:\אוניברסיטה\לימודים\סמסטר ג\מבנה מערכות מחשוב\עבודה 1\1.3\Components\obj\Debug\netcoreapp3.1\Components.genruntimeconfig.cache

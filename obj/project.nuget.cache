@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7nrivihvuvCtbQOAB59utSla5IxXk+k0zM2T87HRMLf+W87KRpu72q0yX/vDcX1EaKxYykdEZ6yqegKldOeQOw==",
+  "success": true,
+  "projectFilePath": "C:\\אוניברסיטה\\לימודים\\סמסטר ג\\מבנה מערכות מחשוב\\עבודה 1\\1.3\\Components\\Components.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
